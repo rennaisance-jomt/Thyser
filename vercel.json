@@ -20,5 +20,9 @@
         { "key": "X-XSS-Protection", "value": "1; mode=block" }
       ]
     }
-  ]
+  ],
+  "env": {
+    "VITE_SUPABASE_URL": "https://ugamqtwnkbjbeeetgnbq.supabase.co",
+    "VITE_SUPABASE_ANON_KEY": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InVnYW1xdHdua2JqYmVlZXRnbmJxIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NDk5OTEwNzgsImV4cCI6MjA2NTU2NzA3OH0.O8cvZExy9xvmlUrl1aZbXNJnd7llhL9CaBQKllgEjyY"
+  }
 }
